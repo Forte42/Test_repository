@@ -7,6 +7,7 @@ This repository exists to practice creating a repository! Neat! :D
 ## Technologies
 
 The applications in this repo were written in Python!
+
 ---
 
 ## Installation Guide
